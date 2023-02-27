@@ -15,7 +15,8 @@
 *.sln.docstates
 ##PDF
 *.pdf
-
+*.cfg
+*.weights
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
