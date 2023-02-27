@@ -17,6 +17,9 @@
 *.pdf
 *.cfg
 *.weights
+*.jpg
+*.jpeg
+*.png
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
